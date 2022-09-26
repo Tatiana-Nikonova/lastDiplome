@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/lastDiplome/static/css/main.9730c3a5.css",
+    "main.js": "/lastDiplome/static/js/main.6d5d35ff.js",
+    "static/media/image_logo_final_order.png": "/lastDiplome/static/media/image_logo_final_order.7d2d24204fae0efe3c71.png",
+    "static/media/image_logo1.png": "/lastDiplome/static/media/image_logo1.534b2b99ec1df995a44c.png",
+    "static/media/mask_group.png": "/lastDiplome/static/media/mask_group.123139ac9016ca7e5f4e.png",
+    "static/media/image_logo2.png": "/lastDiplome/static/media/image_logo2.9270e42c3fac5cff9087.png",
+    "static/media/review_icon2.png": "/lastDiplome/static/media/review_icon2.d244fa30cdb26dc440f2.png",
+    "static/media/review_icon1.png": "/lastDiplome/static/media/review_icon1.a3e8d17509da4fad5e5d.png",
+    "static/media/preloader_animation.gif": "/lastDiplome/static/media/preloader_animation.4e2e699c349a7e5f3147.gif",
+    "static/media/favicon.ico": "/lastDiplome/static/media/favicon.d230a94d489b45599a8a.ico",
+    "index.html": "/lastDiplome/index.html",
+    "main.9730c3a5.css.map": "/lastDiplome/static/css/main.9730c3a5.css.map",
+    "main.6d5d35ff.js.map": "/lastDiplome/static/js/main.6d5d35ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9730c3a5.css",
+    "static/js/main.6d5d35ff.js"
+  ]
+}
